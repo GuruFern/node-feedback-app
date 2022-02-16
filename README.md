@@ -1,4 +1,4 @@
-# node-feedback-app
+# react-feedback-app
 
 This is a React app that allows users to leave feedback on a product.
 
@@ -11,7 +11,7 @@ React
 ### Requirements
 
 - You must have Node installed.
-- To install node feedback app run:
+- To install react feedback app run:
   `npm install`
-- Once installed, to run node feedback app:
+- Once installed, to run react feedback app:
   `npm run dev`
